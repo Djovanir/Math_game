@@ -1,0 +1,1 @@
+Para jogar: execute o "mathgame_main.py"
